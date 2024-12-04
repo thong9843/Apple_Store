@@ -1,0 +1,55 @@
+.specifications-table {
+    margin: 20px 0;
+  }
+  
+  .spec-section {
+    margin-bottom: 30px;
+  }
+  
+  .spec-section h3 {
+    color: #333;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #007bff;
+  }
+  
+  .specifications-table table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .specifications-table td {
+    padding: 12px 15px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .spec-name {
+    width: 30%;
+    font-weight: 600;
+    color: #495057;
+    background-color: #f8f9fa;
+  }
+  
+  .spec-value {
+    width: 70%;
+    color: #212529;
+  }
+  
+  .nested-table {
+    width: 100%;
+    margin: 0;
+    box-shadow: none;
+  }
+  
+  .nested-table td {
+    padding: 5px 10px;
+    border: none;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .nested-table tr:last-child td {
+    border-bottom: none;
+  }

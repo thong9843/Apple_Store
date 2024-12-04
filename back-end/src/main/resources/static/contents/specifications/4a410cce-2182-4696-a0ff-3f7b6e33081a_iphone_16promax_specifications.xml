@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>iPhone 16 Pro Max</ProductName>
+        <Brand>Apple</Brand>
+        <Category>Smartphone</Category>
+        <ReleaseYear>2024</ReleaseYear>
+    </General>
+    
+    <Display>
+        <Type>Super Retina XDR OLED</Type>
+        <Size>6.9 inches</Size>
+        <Resolution>2868 x 1320 pixels</Resolution>
+        <RefreshRate>120 Hz (ProMotion)</RefreshRate>
+        <Brightness>2000 nits peak brightness</Brightness>
+    </Display>
+    
+    <Processor>
+        <Model>A18 Pro</Model>
+        <CoreCount>6-core</CoreCount>
+        <Architecture>64-bit</Architecture>
+    </Processor>
+
+    <Memory>
+        <RAM>8 GB</RAM>
+        <StorageOptions>
+            <Option>256 GB</Option>
+            <Option>512 GB</Option>
+            <Option>1 TB</Option>
+            <Option>2 TB</Option>
+        </StorageOptions>
+    </Memory>
+    
+    <Camera>
+        <RearCamera>
+            <Main>48 MP</Main>
+            <UltraWide>12 MP</UltraWide>
+            <Telephoto>12 MP, 5x Optical Zoom</Telephoto>
+        </RearCamera>
+        <FrontCamera>12 MP</FrontCamera>
+        <Features>Night Mode, Deep Fusion, Smart HDR 5</Features>
+    </Camera>
+    
+    <Battery>
+        <Type>Li-Ion</Type>
+        <Capacity>4500 mAh</Capacity>
+        <Charging>30W Fast Charging</Charging>
+        <WirelessCharging>15W MagSafe</WirelessCharging>
+    </Battery>
+    
+    <OperatingSystem>iOS 18</OperatingSystem>
+    
+    <Connectivity>
+        <WiFi>802.11ax (Wi-Fi 6E)</WiFi>
+        <Bluetooth>5.3</Bluetooth>
+        <NFC>Yes</NFC>
+        <USB>USB-C</USB>
+    </Connectivity>
+    
+    <Sensors>
+        <FaceID>Yes</FaceID>
+        <Accelerometer>Yes</Accelerometer>
+        <Gyroscope>Yes</Gyroscope>
+        <Barometer>Yes</Barometer>
+        <ProximitySensor>Yes</ProximitySensor>
+        <AmbientLightSensor>Yes</AmbientLightSensor>
+        <LiDARScanner>Yes</LiDARScanner>
+    </Sensors>
+</Product>

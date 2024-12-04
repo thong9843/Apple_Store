@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>iPad Pro</ProductName>
+        <Model>iPad Pro M4</Model>
+        <Brand>Apple</Brand>
+        <Category>Tablet</Category>
+        <ReleaseYear>2023</ReleaseYear>
+    </General>
+    
+    <Display>
+        <SizeOptions>
+            <Option>11 inches</Option>
+            <Option>12.9 inches</Option>
+        </SizeOptions>
+        <Resolution>
+            <Option>2388 x 1668 pixels (11-inch)</Option>
+            <Option>2732 x 2048 pixels (12.9-inch)</Option>
+        </Resolution>
+        <Type>Liquid Retina XDR (12.9-inch), Liquid Retina (11-inch)</Type>
+        <Brightness>600 nits (11-inch), 1000 nits sustained / 1600 nits peak (12.9-inch)</Brightness>
+        <RefreshRate>ProMotion, up to 120 Hz</RefreshRate>
+    </Display>
+    
+    <Processor>
+        <Model>Apple M4</Model>
+        <Architecture>8-core CPU (4 performance, 4 efficiency)</Architecture>
+        <Graphics>12-core GPU</Graphics>
+    </Processor>
+
+    <Memory>
+        <RAMOptions>
+            <Option>8 GB</Option>
+            <Option>16 GB</Option>
+            <Option>32 GB (select models)</Option>
+        </RAMOptions>
+    </Memory>
+    
+    <Storage>
+        <StorageOptions>
+            <Option>128 GB</Option>
+            <Option>256 GB</Option>
+            <Option>512 GB</Option>
+            <Option>1 TB</Option>
+            <Option>2 TB</Option>
+        </StorageOptions>
+    </Storage>
+    
+    <Camera>
+        <RearCamera>
+            <Main>12 MP Wide</Main>
+            <UltraWide>10 MP Ultra Wide</UltraWide>
+            <LiDARScanner>Yes</LiDARScanner>
+        </RearCamera>
+        <FrontCamera>12 MP Ultra Wide (Center Stage)</FrontCamera>
+    </Camera>
+    
+    <Battery>
+        <Capacity>
+            <Option>28.65 Wh (11-inch)</Option>
+            <Option>40.88 Wh (12.9-inch)</Option>
+        </Capacity>
+        <BatteryLife>Up to 10 hours of surfing the web on Wi-Fi or watching video</BatteryLife>
+    </Battery>
+    
+    <OperatingSystem>iPadOS 17</OperatingSystem>
+    
+    <Connectivity>
+        <WiFi>802.11ax (Wi-Fi 6E)</WiFi>
+        <Bluetooth>5.3</Bluetooth>
+        <CellularOption>5G (optional)</CellularOption>
+        <Ports>USB-C with Thunderbolt / USB 4</Ports>
+    </Connectivity>
+    
+    <Sensors>
+        <FaceID>Yes</FaceID>
+        <Accelerometer>Yes</Accelerometer>
+        <Gyroscope>Yes</Gyroscope>
+        <Barometer>Yes</Barometer>
+        <AmbientLightSensor>Yes</AmbientLightSensor>
+    </Sensors>
+    
+    <Dimensions>
+        <DimensionsOptions>
+            <Option>
+                <Size>11-inch</Size>
+                <Height>24.76 cm</Height>
+                <Width>17.85 cm</Width>
+                <Depth>0.59 cm</Depth>
+                <Weight>466 grams (Wi-Fi), 468 grams (Wi-Fi + Cellular)</Weight>
+            </Option>
+            <Option>
+                <Size>12.9-inch</Size>
+                <Height>28.06 cm</Height>
+                <Width>21.49 cm</Width>
+                <Depth>0.64 cm</Depth>
+                <Weight>682 grams (Wi-Fi), 684 grams (Wi-Fi + Cellular)</Weight>
+            </Option>
+        </DimensionsOptions>
+    </Dimensions>
+</Product>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>iPhone Charger</ProductName>
+        <Model>25W USB-C Power Adapter</Model>
+        <Brand>Apple</Brand>
+        <Category>Charger</Category>
+        <ReleaseYear>2021</ReleaseYear>
+    </General>
+    
+    <Specifications>
+        <PowerOutput>25 Watts</PowerOutput>
+        <OutputVoltage>5V/9V/15V</OutputVoltage>
+        <OutputCurrent>
+            <Option>3A (max)</Option>
+            <Option>2.4A (for 5V)</Option>
+        </OutputCurrent>
+        <ConnectorType>USB-C</ConnectorType>
+        <Compatibility>
+            <Option>iPhone 8 and later</Option>
+            <Option>iPad Pro</Option>
+            <Option>iPad Air (3rd generation and later)</Option>
+            <Option>iPad (9th generation and later)</Option>
+            <Option>MacBook</Option>
+        </Compatibility>
+    </Specifications>
+    
+    <Design>
+        <Color>White</Color>
+        <Dimensions>
+            <Height>2.5 cm</Height>
+            <Width>4.6 cm</Width>
+            <Depth>4.6 cm</Depth>
+            <Weight>100 grams</Weight>
+        </Dimensions>
+    </Design>
+    
+    <SafetyCertifications>
+        <Certification>UL Certified</Certification>
+        <Certification>CE Marking</Certification>
+        <Certification>FCC Compliant</Certification>
+    </SafetyCertifications>
+    
+    <Features>
+        <Feature>Fast Charging Capability</Feature>
+        <Feature>Compact Design</Feature>
+        <Feature>Supports Power Delivery (PD)</Feature>
+        <Feature>Compatible with a wide range of devices</Feature>
+    </Features>
+</Product>

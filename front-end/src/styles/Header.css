@@ -1,0 +1,87 @@
+/* General Styles */
+header {
+    position: sticky; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1000; 
+}
+
+/* Navbar Customization */
+.navbar-custom {
+    background-color: #000;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link,
+.navbar-custom .btn {
+    color: #fff !important; 
+}
+
+.navbar-custom .nav-link:hover {
+    color: #bbb !important; 
+}
+
+/* Search Container */
+.search-container {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    display: none; /* Consider toggling this class with JS */
+    background-color: #000;
+    padding: 20px;
+}
+
+.search-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+/* Navbar Item and Link Effects */
+.nav-item {
+    position: relative; /* Required for absolute positioning of dropdown */
+}
+
+.nav-link {
+    transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for color and background */
+}
+
+.nav-link:hover {
+    color: #ffcc00; /* Change text color on hover */
+    background-color: rgba(255, 255, 255, 0.1); /* Slightly change background on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown-menu {
+    transition: opacity 0.3s ease; /* Smooth transition for dropdown visibility */
+    opacity: 0; /* Initially hidden */
+    visibility: hidden; /* Prevent interaction */
+}
+
+.dropdown-menu.show {
+    opacity: 1; /* Fully visible */
+    visibility: visible; /* Allow interaction */
+}
+
+/* Offcanvas Menu Styles */
+.offcanvas {
+    transition: transform 0.3s ease-in-out; /* Smooth transition for offcanvas */
+    transform: translateY(-100%); /* Start off-screen */
+}
+
+.offcanvas.show {
+    transform: translateY(0); /* Move into view */
+}
+
+/* General Hover Effects */
+.nav-link {
+    transition: color 0.3s ease; /* Smooth transition for link color */
+}
+
+.nav-link:hover {
+    color: #ccc; /* Example hover color */
+}

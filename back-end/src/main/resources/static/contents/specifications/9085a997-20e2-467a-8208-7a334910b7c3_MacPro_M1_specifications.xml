@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>MacBook Pro</ProductName>
+        <Model>MacBook Pro 14-inch M1 (2021)</Model>
+        <Brand>Apple</Brand>
+        <Category>Laptop</Category>
+        <ReleaseYear>2021</ReleaseYear>
+    </General>
+    
+    <Display>
+        <Size>14.2 inches</Size>
+        <Resolution>3024 x 1964 pixels</Resolution>
+        <Type>Liquid Retina XDR Display</Type>
+        <Brightness>1000 nits sustained, 1600 nits peak</Brightness>
+        <ColorGamut>P3 Wide Color</ColorGamut>
+        <RefreshRate>ProMotion, up to 120 Hz</RefreshRate>
+    </Display>
+    
+    <Processor>
+        <ModelOptions>
+            <Option>Apple M1 Pro</Option>
+            <Option>Apple M1 Max</Option>
+        </ModelOptions>
+        <Architecture>
+            <M1Pro>8-core or 10-core (6-8 performance cores, 2 efficiency cores)</M1Pro>
+            <M1Max>10-core (8 performance cores, 2 efficiency cores)</M1Max>
+        </Architecture>
+    </Processor>
+
+    <Memory>
+        <RAMOptions>
+            <Option>16 GB</Option>
+            <Option>32 GB</Option>
+            <Option>64 GB (M1 Max only)</Option>
+        </RAMOptions>
+    </Memory>
+    
+    <Storage>
+        <StorageOptions>
+            <Option>512 GB SSD</Option>
+            <Option>1 TB SSD</Option>
+            <Option>2 TB SSD</Option>
+            <Option>4 TB SSD</Option>
+            <Option>8 TB SSD</Option>
+        </StorageOptions>
+    </Storage>
+    
+    <Graphics>
+        <ModelOptions>
+            <Option>Apple M1 Pro GPU, up to 16-core</Option>
+            <Option>Apple M1 Max GPU, up to 32-core</Option>
+        </ModelOptions>
+    </Graphics>
+    
+    <Battery>
+        <Type>Lithium-Polymer</Type>
+        <Capacity>70 Wh</Capacity>
+        <BatteryLife>Up to 17 hours of wireless web</BatteryLife>
+    </Battery>
+    
+    <OperatingSystem>macOS Monterey</OperatingSystem>
+    
+    <Connectivity>
+        <WiFi>802.11ax (Wi-Fi 6)</WiFi>
+        <Bluetooth>5.0</Bluetooth>
+        <Ports>
+            <USB-C>3x Thunderbolt 4</USB-C>
+            <HDMI>1x HDMI</HDMI>
+            <SDCardSlot>SDXC card slot</SDCardSlot>
+            <AudioJack>3.5 mm headphone jack</AudioJack>
+            <ChargingPort>MagSafe 3</ChargingPort>
+        </Ports>
+    </Connectivity>
+    
+    <Keyboard>
+        <Type>Backlit Magic Keyboard</Type>
+        <KeyTravel>1 mm</KeyTravel>
+        <Features>Scissor mechanism, Touch ID, full-height function keys</Features>
+    </Keyboard>
+    
+    <Dimensions>
+        <Height>1.55 cm</Height>
+        <Width>31.26 cm</Width>
+        <Depth>22.12 cm</Depth>
+        <Weight>1.6 kg</Weight>
+    </Dimensions>
+</Product>

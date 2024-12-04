@@ -1,0 +1,114 @@
+.cart-item-inner {
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.cart-item-inner:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.left-section img {
+  transition: transform 0.3s ease;
+}
+
+.left-section:hover img {
+  transform: scale(1.1);
+}
+
+.transition-btn {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.transition-btn:hover {
+  background-color: #555;
+  transform: scale(1.05);
+}
+
+.cart-item-inner {
+  transition: all 0.3s ease;
+}
+
+.editing-mode {
+  background-color: #f9f9f9;
+}
+
+.quantity-input {
+  width: 60px;
+  text-align: center;
+}
+
+.edit-actions {
+  transition: opacity 0.3s ease;
+}
+
+.item-image {
+  width: 100px;
+  transition: transform 0.3s ease;
+}
+
+.item-image:hover {
+  transform: scale(1.1);
+}
+
+.cart-item-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+  transition: transform 0.4s ease; /* Smooth transition for movement */
+}
+
+.left-side.shifted {
+  transform: translateX(20px); /* Shift the left side to the right */
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* Align text to the right */
+}
+
+/* Checkbox styling */
+.fade-in-checkbox {
+  transition: opacity 0.4s ease, transform 0.4s ease; /* Smooth transition */
+  border: 2px solid #ccc; /* Add border for unchecked state */
+  border-radius: 4px; /* Slightly rounded corners */
+  width: 20px; /* Set checkbox width */
+  height: 20px; /* Set checkbox height */
+  opacity: 1
+}
+
+.left-side input:checked {
+  opacity: 1; /* Fully visible when checked */
+  transform: translateX(0); /* Move checkbox back to its place */
+}
+
+/* Button transition effect */
+.transition-btn {
+  transition: all 0.3s ease;
+}
+
+.transition-btn:hover {
+  transform: scale(1.05);
+}
+
+/* Checkout button styling */
+.checkout-buttons .btn {
+  margin-left: 5px;
+}
+
+/* Animate Checkout Selected button appearance */
+.checkout-selected {
+  opacity: 0; /* Start invisible */
+  transform: scale(0.9); /* Slightly smaller */
+  transition: opacity 0.4s ease, transform 0.4s ease; /* Smooth transition */
+}
+
+.checkout-selected.visible {
+  opacity: 1; /* Make it visible */
+  transform: scale(1); /* Return to normal size */
+}

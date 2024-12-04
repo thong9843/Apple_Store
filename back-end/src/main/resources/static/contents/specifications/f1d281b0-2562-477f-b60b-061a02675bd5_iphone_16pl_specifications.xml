@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>iPhone 16 Plus</ProductName>
+        <Brand>Apple</Brand>
+        <Category>Smartphone</Category>
+        <ReleaseYear>2024</ReleaseYear>
+    </General>
+    
+    <Display>
+        <Type>Super Retina XDR OLED</Type>
+        <Size>6.7 inches</Size>
+        <Resolution>2796 x 1290 pixels</Resolution>
+        <RefreshRate>120 Hz</RefreshRate>
+    </Display>
+    
+    <Processor>
+        <Model>A18 Bionic</Model>
+        <CoreCount>6-core</CoreCount>
+        <Architecture>64-bit</Architecture>
+    </Processor>
+
+    <Memory>
+        <RAM>8 GB</RAM>
+        <StorageOptions>
+            <Option>128 GB</Option>
+            <Option>256 GB</Option>
+            <Option>512 GB</Option>
+            <Option>1 TB</Option>
+        </StorageOptions>
+    </Memory>
+    
+    <Camera>
+        <RearCamera>
+            <Main>48 MP</Main>
+            <UltraWide>12 MP</UltraWide>
+        </RearCamera>
+        <FrontCamera>12 MP</FrontCamera>
+    </Camera>
+    
+    <Battery>
+        <Type>Li-Ion</Type>
+        <Charging>20W Fast Charging</Charging>
+        <WirelessCharging>15W MagSafe</WirelessCharging>
+    </Battery>
+    
+    <OperatingSystem>iOS 18</OperatingSystem>
+    
+    <Connectivity>
+        <WiFi>802.11ax (Wi-Fi 6E)</WiFi>
+        <Bluetooth>5.3</Bluetooth>
+        <NFC>Yes</NFC>
+        <USB>USB-C</USB>
+    </Connectivity>
+    
+    <Sensors>
+        <FaceID>Yes</FaceID>
+        <Accelerometer>Yes</Accelerometer>
+        <Gyroscope>Yes</Gyroscope>
+        <Barometer>Yes</Barometer>
+        <ProximitySensor>Yes</ProximitySensor>
+        <AmbientLightSensor>Yes</AmbientLightSensor>
+    </Sensors>
+</Product>

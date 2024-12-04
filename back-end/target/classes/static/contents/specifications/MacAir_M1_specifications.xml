@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>MacBook Air</ProductName>
+        <Model>MacBook Air M1 (2020)</Model>
+        <Brand>Apple</Brand>
+        <Category>Laptop</Category>
+        <ReleaseYear>2020</ReleaseYear>
+    </General>
+    
+    <Display>
+        <Size>13.3 inches</Size>
+        <Resolution>2560 x 1600 pixels</Resolution>
+        <Type>Retina Display</Type>
+        <Brightness>400 nits</Brightness>
+        <ColorGamut>P3 Wide Color</ColorGamut>
+    </Display>
+    
+    <Processor>
+        <Model>Apple M1</Model>
+        <Architecture>8-core (4 performance cores, 4 efficiency cores)</Architecture>
+    </Processor>
+
+    <Memory>
+        <RAMOptions>
+            <Option>8 GB</Option>
+            <Option>16 GB</Option>
+        </RAMOptions>
+    </Memory>
+    
+    <Storage>
+        <StorageOptions>
+            <Option>256 GB SSD</Option>
+            <Option>512 GB SSD</Option>
+            <Option>1 TB SSD</Option>
+            <Option>2 TB SSD</Option>
+        </StorageOptions>
+    </Storage>
+    
+    <Graphics>
+        <Type>Integrated</Type>
+        <Model>Apple M1 GPU</Model>
+        <CoreCount>7 or 8 cores</CoreCount>
+    </Graphics>
+    
+    <Battery>
+        <Type>Lithium-Polymer</Type>
+        <Capacity>49.9 Wh</Capacity>
+        <BatteryLife>Up to 15 hours of wireless web</BatteryLife>
+    </Battery>
+    
+    <OperatingSystem>macOS Big Sur</OperatingSystem>
+    
+    <Connectivity>
+        <WiFi>802.11ax (Wi-Fi 6)</WiFi>
+        <Bluetooth>5.0</Bluetooth>
+        <Ports>
+            <USB-C>2x Thunderbolt / USB 4</USB-C>
+            <AudioJack>3.5 mm headphone jack</AudioJack>
+        </Ports>
+    </Connectivity>
+    
+    <Keyboard>
+        <

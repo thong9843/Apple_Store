@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <General>
+        <ProductName>iPhone Charger Cable</ProductName>
+        <Model>USB-C to Lightning Cable</Model>
+        <Brand>Apple</Brand>
+        <Category>Cable</Category>
+        <ReleaseYear>2021</ReleaseYear>
+    </General>
+    
+    <Specifications>
+        <Length>
+            <Option>1 meter</Option>
+            <Option>2 meters</Option>
+        </Length>
+        <ConnectorType>
+            <Input>USB-C</Input>
+            <Output>Lightning</Output>
+        </ConnectorType>
+        <DataTransferSpeed>Up to 480 Mbps</DataTransferSpeed>
+        <ChargingSpeed>Fast Charging (up to 20W)</ChargingSpeed>
+        <Compatibility>
+            <Option>iPhone 8 and later</Option>
+            <Option>iPad Pro</Option>
+            <Option>iPad Air (3rd generation and later)</Option>
+            <Option>iPad (9th generation and later)</Option>
+            <Option>AirPods (with wireless charging case)</Option>
+        </Compatibility>
+    </Specifications>
+    
+    <Design>
+        <Color>White</Color>
+        <Material>Reinforced braided nylon</Material>
+        <Durability>Tested to withstand over 12,000 bends</Durability>
+    </Design>
+    
+    <SafetyCertifications>
+        <Certification>UL Certified</Certification>
+        <Certification>CE Marking</Certification>
+        <Certification>FCC Compliant</Certification>
+    </SafetyCertifications>
+    
+    <Features>
+        <Feature>Fast Charging Capability</Feature>
+        <Feature>Supports Power Delivery (PD)</Feature>
+        <Feature>Compatible with a wide range of devices</Feature>
+        <Feature>Lightweight and Portable</Feature>
+    </Features>
+</Product>
